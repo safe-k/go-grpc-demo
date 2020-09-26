@@ -7,7 +7,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
-	"github.com/safe-k/go-grpc-demo/proto"
+	"github.com/seifkamal/go-grpc-demo/proto"
 )
 
 type server struct{}

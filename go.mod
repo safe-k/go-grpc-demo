@@ -1,4 +1,4 @@
-module github.com/safe-k/go-grpc-demo
+module github.com/seifkamal/go-grpc-demo
 
 go 1.14
 

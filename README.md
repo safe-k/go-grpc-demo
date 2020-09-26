@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell script
-git clone git@github.com:safe-k/go-grpc-demo.git
+git clone git@github.com:seifkamal/go-grpc-demo.git
 cd go-grpc-demo
 go get -u
 ```
